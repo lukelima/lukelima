@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**lukelima/lukelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lukesilva_dev)](https://dev.to/lukesilva_dev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukelima/)](https://www.linkedin.com/in/lukelima/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cephalopodluke)](https://twitter.com/cephalopodluke)
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on @Carambola and @One-Dollar-Lab
+- 🌱 I’m currently learning C# and Dart
+- 👯 I’m looking to collaborate on scientific projects
+- 💬 Ask me about **mobile apps**, **Flutter**, **Firebase** and **insects** 🐝 
+- 📫 How to reach me: lukelimasilva@outlook.com and tech@1dollarlab.com
+- 😄 Pronouns: He/his
