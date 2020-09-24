@@ -7,7 +7,7 @@
 [![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lukelima)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-- 🔭 I’m currently working on @Carambola
+- 🔭 I’m currently working at @Carambola
 - 🌱 I’m currently learning C# and Dart
 - 👯 I’m looking to collaborate on scientific projects
 - 💬 Ask me about **mobile apps**, **Flutter**, **Firebase** and **insects** 🐝 
