@@ -11,5 +11,5 @@
 - 🌱 I’m currently learning C# and Dart
 - 👯 I’m looking to collaborate on scientific projects
 - 💬 Ask me about **mobile apps**, **Flutter**, **Firebase** and **insects** 🐝 
-- 📫 How to reach me: lukelimasilva@outlook.com and tech@1dollarlab.com
+- 📫 How to reach me: lukelimasilva@outlook.com
 - 😄 Pronouns: He/his
