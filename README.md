@@ -5,9 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cephalopodluke)](https://twitter.com/madebyluque)
 ---
 
-- 🔭 I’m currently working at @ClearSale
-- 🌱 I’m currently learning C# and Dart
+- 🔭 I’m currently open to work
+- 🌱 I’m currently learning C# and Unity
 - 👯 I’m looking to collaborate on scientific projects
-- 💬 Ask me about **mobile apps**, **Flutter**, **Firebase** and **insects** 🐝 
+- 💬 Ask me about **.Net**, **Azure**, **game dev** 🎮 and **insects** 🐝 
 - 📫 How to reach me: lukesilva.dev@gmail.com
 - 😄 Pronouns: He/his
